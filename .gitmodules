@@ -8,3 +8,6 @@
 [submodule "PSSIM"]
 	path = PSSIM
 	url = https://github.com/cran/PSSIM
+[submodule "hetNSC"]
+	path = hetNSC
+	url = https://github.com/hwanggit/hetnsc
